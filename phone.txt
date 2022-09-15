@@ -3,5 +3,3 @@ phone
 touchscreen
 
 tempered  glass
-
-djgsdg
